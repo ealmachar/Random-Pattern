@@ -1,11 +1,8 @@
-# Random-Pattern
-Purpose: learn HTML5 Canvas
+# pattern.js
+Purpose: learn HTML5 Canvas, tinkering project
 
-# Usage
-1. clone/download
-2. open index.html in web browser
-
- Or you can view it [here](http://ealmachar.github.io/projects/pattern.js/index.html).
+# usage
+You can view it [here](http://ealmachar.github.io/projects/pattern.js/index.html).
 
 ---
 
