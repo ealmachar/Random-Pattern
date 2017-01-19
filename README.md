@@ -5,7 +5,7 @@ Purpose: learn HTML5 Canvas
 1. clone/download
 2. open index.html in web browser
 
-Or you can view it [here](ealmaghar.github.io/projects/pattern.js/index.html).
+Or you can view it [here](http://ealmaghar.github.io/projects/pattern.js/index.html).
 
 ![alt text](https://raw.githubusercontent.com/ealmachar/Random-Pattern/master/pattern%20examples/1.png "example 1")
 
