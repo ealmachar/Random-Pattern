@@ -5,7 +5,6 @@ and to emulate this:
 
 ![alt text](https://raw.githubusercontent.com/ealmachar/Random-Pattern/master/pattern%20examples/pattern_inspiration.png "example inspiration")
 
-# usage
 You can view it [here](http://ealmachar.github.io/projects/pattern.js/index.html).
 
 ---
